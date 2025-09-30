@@ -7,7 +7,7 @@ Houdini Digital Asset harnessing Python, json and Copernicus to provide a dynami
 
 # Main Features
 
-- Add and delete any number of shot slides containing fillable pre-made information text boxes: shot description, primary and secondary action, acting notes, additional notes, audio notes and versioning. Text is dynamically adjusting based on the amount of it. Copy and paste to and from slides at will.
+- Add and delete any number of shot slides containing fillable pre-made information text boxes: shot description, primary and secondary action, acting notes, additional notes, audio notes and versioning. Text is dynamically adaptive.
 - Add an accompanying image, either from drive or a snapshot of the Houdini viewport. They can be in the set in corner of the slide or as a backdrop, with adjustable brightness.
 - Export slides as images, single or bulk.
 
