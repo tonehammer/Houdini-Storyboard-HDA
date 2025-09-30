@@ -1,6 +1,8 @@
 # Houdini-Storyboard-HDA
 <img src="https://github.com/tonehammer/Houdini-Storyboard-HDA/blob/main/assets/houdini-storyboard%20cover%20photo.png" width="500">
+
 Houdini Digital Asset harnessing Python, json and Copernicus to provide a dynamic preproduction tool in SideFX Houdini.
+
 - Current version: 1.2 (Oct 2025)
 
 # Main Features
