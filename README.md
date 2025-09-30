@@ -7,6 +7,8 @@ Houdini Digital Asset harnessing Python, json and Copernicus to provide a dynami
 
 # Main Features
 
+<img src="https://github.com/tonehammer/Houdini-Storyboard-HDA/blob/main/assets/preprod%20storyboard%20parameter%20menu.png" width="500">
+
 - Add and delete any number of shot slides containing fillable pre-made information text boxes: shot description, primary and secondary action, acting notes, additional notes, audio notes and versioning. Text is dynamically adaptive.
 - Add an accompanying image, either from drive or a snapshot of the Houdini viewport. They can be in the set in corner of the slide or as a backdrop, with adjustable brightness.
 - Export slides as images, single or bulk.
