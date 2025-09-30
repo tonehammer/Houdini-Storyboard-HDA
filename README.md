@@ -4,8 +4,8 @@ Houdini Digital Asset harnessing Python, json and Copernicus to provide a dynami
 
 # How to Install
 
-1. Download [here].
-2. Extract in "user\documents\houdini2x.x\otls"
+1. Download the HDA [here](https://github.com/tonehammer/Houdini-Storyboard-HDA/blob/main/sop_JV.dev.preprod_storyboard_copy.1.2.hdalc).
+2. Extract in "user\documents\houdini2x.x\otls" or whever you keep your HDAs.
 
 # Main Features
 
